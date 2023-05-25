@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 안녕하세요, 리액트와 넥스트를 주로 사용하고 있는 <strong>프론트엔드 개발자 권지현</strong>입니다.<br/>
-요즘은 주로 UX와 최적화에 관심을 가지고 있어요.
+요즘은 주로 UI/UX와 클린코드에 집중하고 있어요.
 ##
 <br/>
 
@@ -15,12 +15,12 @@
 <div style={{display:"flex"}}>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/emotion-FE5196?style=flat-square"/>
 </div><br/>
 <div style={{display:"flex"}}>
 <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=graphql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=apollographql&logoColor=ffffff"/>
 </div><br/>

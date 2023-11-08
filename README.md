@@ -17,12 +17,15 @@
 <div style={{display:"flex"}}>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/emotion-FE5196?style=flat-square"/>
 </div>
 <div style={{display:"flex"}}>
-<img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=graphql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=apollographql&logoColor=ffffff"/>
 </div>
@@ -30,8 +33,8 @@
 
 **✨ Studying**
 <div style={{display:"flex"}}>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=redux&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff"/>
 </div>
 <br/>
 

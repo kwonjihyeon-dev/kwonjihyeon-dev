@@ -1,10 +1,6 @@
-### 👋 Hi there
+### FrontEnd Developer 👋 
 
-안녕하세요, 리액트와 넥스트를 주로 사용하고 있는 <strong>프론트엔드 개발자 권지현</strong>입니다.<br/>
-- 사용자 경험에 대해 고민합니다.
-- 추상화와 테스트를 통한 클린 코드를 추구합니다.
-- 배포와 인프라에 관심이 있습니다.
-##
+
 <br/>
 
 **🛠 Stack**		
@@ -17,17 +13,20 @@
 <div style={{display:"flex"}}>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/emotion-FE5196?style=flat-square"/>
+<img src="https://img.shields.io/badge/VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/zustand-512BD4?style=flat-square&logo=zustand&logoColor=ffffff"/>
 </div>
 <div style={{display:"flex"}}>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/tanstackQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=graphql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=apollographql&logoColor=ffffff"/>
+</div>
+<div style={{display:"flex"}}>
+<img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Emotion-FE5196?style=flat-square"/>
 </div>
 <br/>
 

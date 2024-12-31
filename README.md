@@ -43,5 +43,6 @@
 <a href="kjh2868@gmail.com"><img src="https://img.shields.io/badge/kjh2868@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
 </div><br/>
 <p>
-<a><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api?username=kwonjihyeon2&show_icons=true&theme=radical" /></a>
-<a><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonjihyeon2&layout=compact" /></a></p>
+<a><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonjihyeon-dev&layout=compact" /></a>
+</p>
+

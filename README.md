@@ -49,7 +49,7 @@
 
 
 <!--
-**kwonjihyeon2/kwonjihyeon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kwonjihyeon-dev/kwonjihyeon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

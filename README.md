@@ -40,7 +40,7 @@
 **📫 Contact**
 <div style={{display:"flex"}}>
 <a href="https://velog.io/@kjh2868"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=ffffff"/></a>
-<a href="kjh2868@gmail.com"><img src="https://img.shields.io/badge/kjh2868@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
+<a href="mailto:kjh2868@gmail.com"><img src="https://img.shields.io/badge/kjh2868@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
 </div><br/>
 <p>
 <a><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonjihyeon-dev&layout=compact" /></a>

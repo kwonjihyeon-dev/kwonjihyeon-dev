@@ -43,6 +43,6 @@
 <a href="https://velog.io/@kjh2868"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=ffffff"/></a>
 </div><br/>
 <p>
-블로그 최신 글 보기 🔽
+블로그 최신 글 &nbsp; 🔽
 </p>
-<a href="https://velog.io/@kjh2868"><img  align="center" src="https://velog-readme-stats.vercel.app/api?name=kjh2868&color=dark" /></a>
+<a href="https://velog.io/@kjh2868" rel="nofollow"><img  align="center" src="https://velog-readme-stats.vercel.app/api?name=kjh2868&color=dark" /></a>

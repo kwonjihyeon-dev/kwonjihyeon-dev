@@ -45,4 +45,4 @@
 <p>
 블로그 최신 글 보기 🔽
 </p>
-<a href="https://velog.io/@kjh2868"><img width="58%"  align="center" style="height:180px" src="https://velog-readme-stats.vercel.app/api?name=kjh2868&color=dark" /></a>
+<a href="https://velog.io/@kjh2868"><img  align="center" src="https://velog-readme-stats.vercel.app/api?name=kjh2868&color=dark" /></a>

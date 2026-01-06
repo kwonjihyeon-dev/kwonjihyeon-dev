@@ -37,8 +37,14 @@
 </div>
 <br/>
 
+**✍🏻 Blog**
+<div style={{display:"flex"}}>
+<a href="https://github.com/kwonjihyeon-dev/TIL"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=ffffff"/></a>
+<a href="https://velog.io/@kjh2868"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=ffffff"/></a>
+</div><br/>
+
 **📫 Contact**
 <div >
 <a href="mailto:kjh2868@gmail.com"><img src="https://img.shields.io/badge/kjh2868@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a><br/>
-<a href="https://velog.io/@kjh2868"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=ffffff"/></a>
-</div><br/>
+</div>
+<br/>
